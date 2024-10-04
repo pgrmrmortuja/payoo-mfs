@@ -1,6 +1,6 @@
-Live Link:-
+Github Live Link:-
 
-Github For Mobile Mockup:
+For Mobile Mockup:
 - https://pgrmrmortuja.github.io/payoo-mfs/html/index.html
   
 For Desktop:
