@@ -7,8 +7,7 @@ For Desktop:
 - https://pgrmrmortuja.github.io/payoo-mfs/html/index2.html
 
 Netlify :
- - https://payoo-banking.netlify.app/html/index.html
- - https://payoo-banking.netlify.app/html/index2.html
+ - https://payoo-banking.netlify.app
 
 Surge.sh :
 - https://payoo-banking.surge.sh/html/index.html
